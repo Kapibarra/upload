@@ -38,10 +38,11 @@ input#file-upload-button {
     align-items: center;
     margin: 10px;
     padding: 0.75rem 1rem;
+    padding-top: 8px;
     border: 0;
     border-radius: 0.317rem;
-    background-color: #aaa;
-    color: #fff;
+    background-color: rgb(171, 255, 163);
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-weight: 700;
     font-size: 1rem;
